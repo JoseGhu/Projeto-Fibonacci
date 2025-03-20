@@ -1,0 +1,14 @@
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.exe
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.deps.json
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.runtimeconfig.json
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.dll
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.pdb
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.AssemblyInfo.cs
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.dll
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\refint\Recursividade.dll
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.pdb
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.genruntimeconfig.cache
+C:\Users\Felipe WebNets\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\ref\Recursividade.dll
